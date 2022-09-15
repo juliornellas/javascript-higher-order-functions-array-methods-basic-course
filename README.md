@@ -2,4 +2,13 @@
 
 > Knowledgement in javascript is required !
 
-Manipulation of arrays using HOF such as: foreach, sort, filter, map and reduce.
+Manipulation of arrays using HOF such as: 
+    * Filter
+    * Map
+    * Find
+    * ForEach 
+    * Some
+    * Every
+    * Reduce
+    * Includes
+    * Sort
